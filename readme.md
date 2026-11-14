@@ -61,15 +61,25 @@ The project generates the following visualizations:
 Project Structure
 
 banking_transaction_project/
+
 │
+
 ├── main.py
+
 ├── database.py
+
 ├── analysis.py
+
 ├── charts.py
+
 ├── scheduler.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── reports/
+
     └── (generated chart images)
     
 Installation and Setup
